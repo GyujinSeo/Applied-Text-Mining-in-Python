@@ -1,6 +1,6 @@
 # Applied Text Mining in Python by University of Michigan on Coursera
 
-![University of Michigan Logo](URL_TO_IMAGE)
+![University of Michigan Logo](https://github.com/GyujinSeo/Applied-Text-Mining-in-Python/blob/main/U-of-Mich%20Logo.jpg?raw=true)
 
 ## Instructor(s):
 - V. G. Vinod Vydiswaran, Assistant Professor
